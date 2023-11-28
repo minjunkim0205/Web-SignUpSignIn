@@ -2,11 +2,11 @@
 
 ## Introduction
 
-    웹사이트 회원가입,로그인 기능 구현.
+> 웹사이트 회원가입,로그인 기능 구현.
 
 ## Requirements
 
-    프로젝트에 필요한 환경.
+> 프로젝트에 필요한 환경.
 
 * **Environment**
     * Windows
