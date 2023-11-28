@@ -11,13 +11,21 @@
 * **Environment**
     * Windows
 
+* **Database**
+    * [MySql Workbench[Community]](https://dev.mysql.com/downloads/workbench/)
+
 * **Framework**
     * [NodeJs[20.10.0 LTS]](https://nodejs.org/en)
-        * [Npm](https://www.npmjs.com/)
+        * [Npm](https://www.npmjs.com/)\
+          ``` npm init -y ```
 
 * **Package**
     * [Nodemon](https://www.npmjs.com/package/nodemon)\
       ``` npm install nodemon ```
+    * [Express](https://www.npmjs.com/package/express)\
+      ``` npm install express ```
+    * [MySql](https://www.npmjs.com/package/mysql)\
+      ``` npm install mysql ```
 
 ## Approach
 
